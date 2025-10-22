@@ -84,7 +84,7 @@ The project demonstrates data collection from different sources, cleaning, mergi
 ## Analysis and Findings
 
 * **Correlation:** The correlation heatmap shows a strong positive relationship between Points (`Points`) and Wins (`Won`), Goals For (`GF`), and Goal Difference (`Goal Difference`). There is also a strong negative correlation between Points and Losses (`Lost`), and Goals Against (`GA`). This confirms the intuitive understanding: teams that win more, score more, and concede less tend to accumulate more points. The founding year of the team (`Founded`) has a weak correlation with current performance metrics.
-* **Metric Distribution:** Box plots illustrate the distribution of key performance indicators among the league teams. They confirm that there are no apparent outliers in the data, and the distributions appear consistent.
+* **Column Distribution:** Box plots illustrate the distribution of key performance indicators among the league teams. They confirm that there are no apparent outliers in the data, and the distributions appear consistent.
 * **GF vs GA:** The scatter plot visualizes the balance between attack and defense. Teams in the top-left quadrant (high GF, low GA) are typically higher in the league table.
 * **League Standings:** The bar chart clearly shows the points distribution among the teams at the time the data was collected.
 
